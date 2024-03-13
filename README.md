@@ -5,7 +5,7 @@ Je crée plusieurs projets de temps en temps et vous pourrez les trouver dans me
 J'écris mes commits en francais.
 
 EN :
-# Hi ! Me it's zeroz18
+# Hi ! I'm zeroz18
 I am a french beginer developper in HTML CSS JS Batch and C#.
 I create a prject usually and you can find this in mu repertories GutHub.
 I make my commits in french.
