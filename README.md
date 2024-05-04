@@ -1,12 +1,12 @@
 ### FR :
 # Salut ! Moi c'est zeroz18.
-Je suis un développeur débutant francais  HTML CSS JS Batch et C#.
+Je suis un développeur débutant francais  HTML CSS JS Batch JAVA et C#.
 Je crée plusieurs projets de temps en temps et vous pourrez les trouver dans mes différantes repertories GitHub
 J'écris mes commits en francais.
 
 ### EN :
 # Hi ! I'm zeroz18
-I am a french beginer developper in HTML CSS JS Batch and C#.
+I am a french beginer developper in HTML CSS JS Batch JAVA and C#.
 I create a prject usually and you can find this in my repertories GitHub.
 I make my commits in french.
 
