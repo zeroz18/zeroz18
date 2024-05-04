@@ -9,3 +9,17 @@ J'écris mes commits en francais.
 I am a french beginer developper in HTML CSS JS Batch and C#.
 I create a prject usually and you can find this in my repertories GitHub.
 I make my commits in french.
+
+
+
+## GITHUB STATS 📈
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=zeroz18_off&show_icons=true&hide_border=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroz18_off&&layout=compact&langs_count=6&theme=highcontrast&hide_border=true" />
+</p>
+
+
+## CODING ACTIVITY
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zeroz18_off&layout=compact&theme=chartreuse-dark&hide_border=true" />
+</p>
