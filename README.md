@@ -14,4 +14,4 @@ I make my commits in french.
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=zeroz18&show_icons=true&hide_border=true&theme=radical" />
 </p>
-[![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=zeroz18&layout=donut)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroz18&layout=donut)]
