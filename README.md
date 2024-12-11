@@ -15,3 +15,26 @@ I make my commits in french.
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroz18&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🤝 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/zeroz18/OS/blob/main/index.html"><b>html OS</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/zeroz18/OS?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/zeroz18/OS?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/zeroz18/N-tomato-engine"><b>Simple NTomatoEengine</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/zeroz18/N-tomato-engine?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/zeroz18/N-tomato-engine?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
